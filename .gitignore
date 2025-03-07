@@ -1,0 +1,6 @@
+BEVHeight.egg-info/
+build/
+data/rope3d-kitti
+data/rope3d-kitti-gen
+outputs/
+*.pth
